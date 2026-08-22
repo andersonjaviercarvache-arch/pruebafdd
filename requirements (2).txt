@@ -1,4 +1,0 @@
-streamlit>=1.30
-lxml>=5.0
-cryptography>=42.0
-requests>=2.31
